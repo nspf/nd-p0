@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="app_background" type="color">#ffDFEAF1</item>
+    <item name="blue" type="color">#ff3AB8FF</item>
+    <item name="white" type="color">#ffffffff</item>
+    <item name="red" type="color">#ffCD0E3E</item>
+    <item name="button" type="color">#ffF08C35</item>
+    <item name="colorPrimary" type="color">#ff2B323E</item>
+</resources>
+
